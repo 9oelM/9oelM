@@ -1,5 +1,20 @@
-### Hi there 👋
+Hi! I'm a developer working fullstack + interested in security.
+Make sure you visit my blogs and profile!
+- [Github blog](https://9oelm.github.io)
+- [Medium blog](https://9oelm.medium.com)
+- [Notion blog](https://www.notion.so/9oelm/2acfc525c9964be080d218770e6b8431?v=a7970392a2c54d3b857db145ded4de9e)
+- [Linkedin](https://www.linkedin.com/in/7oelm/)
 
+# Current interest
+- Fullstack development and open source, for sure! Some projects I've been wokring on recently (including WIP): 
+  - [UI Theory](https://github.com/9oelM/ui-theory)
+  - [Youtube Lite (WIP)](https://github.com/9oelM/youtube-lite)
+- My current interest also lies in **ethical hacking** (I'm still learning and need to grow a lot). 
+  - I've reported valid **security vulnerabilities** to the companies not only limited to: [Naver](https://naver.com), [Naver Whale](https://whale.naver.com), and [Slack](https://slack.com) (I know, still too few, but I will get there one day). In my free time, I would go find security vulnerabilities and report them.
+
+# Speciality
+- I'm really good at React, Node.js and Typescript and have vast understanding of javascript ecosystem itself + quite a good grasp of cloud infra. You should really go read the articles I wrote on my blog. Many people seem to read and like it. For example, [this one](https://medium.com/swlh/making-stupid-react-smart-in-re-rendering-5f04b5bab327).
+- I'm a firm believer in the future of [wasm](https://webassembly.org/). I'm always interested in wasm and better than an average person at it.
 <!--
 **9oelM/9oelM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
