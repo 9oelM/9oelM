@@ -10,7 +10,7 @@ Make sure you visit my blogs and profile!
   - [UI Theory](https://github.com/9oelM/ui-theory)
   - [Youtube Lite (WIP)](https://github.com/9oelM/youtube-lite)
 - My current interest also lies in **ethical hacking** (I'm still learning and need to grow a lot). 
-  - I've reported valid **security vulnerabilities** to [some of the companies](https://hackerone.com/9oelm). In my free time, I would go find security vulnerabilities and report them.
+  - In my free time, I would go [find security vulnerabilities and report them](https://hackerone.com/9oelm).
 
 # Speciality
 - I'm really good at React, Node.js and Typescript and have vast understanding of javascript ecosystem itself + quite a good grasp of cloud infra. You should really go read the articles I wrote on my blog. Many people seem to read and like it. For example, [this one](https://medium.com/swlh/making-stupid-react-smart-in-re-rendering-5f04b5bab327).
