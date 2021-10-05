@@ -11,7 +11,7 @@ Make sure you visit my blogs and profile!
   - [Youtube Lite (WIP)](https://github.com/9oelM/youtube-lite)
 - My current interest also lies in **ethical hacking** (I'm still learning and need to grow a lot). 
   - In my free time, I would go [find security vulnerabilities and report them](https://hackerone.com/9oelm).
-  - [Find me here too](https://bugbounty.naver.com/en/halloffame)
+  - [Find me here too](https://bugbounty.naver.com/ko/halloffame)
   - [And here too](https://bugbounty.whale.naver.com/en/halloffame)
 
 # Speciality
