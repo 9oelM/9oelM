@@ -11,6 +11,8 @@ Make sure you visit my blogs and profile!
   - [Youtube Lite (WIP)](https://github.com/9oelM/youtube-lite)
 - My current interest also lies in **ethical hacking** (I'm still learning and need to grow a lot). 
   - In my free time, I would go [find security vulnerabilities and report them](https://hackerone.com/9oelm).
+  - [Find me here too](https://bugbounty.naver.com/ko/halloffame)
+  - [And here too](https://bugbounty.whale.naver.com/ko/halloffame)
 
 # Speciality
 - I'm really good at React, Node.js and Typescript and have vast understanding of javascript ecosystem itself + quite a good grasp of cloud infra. You should really go read the articles I wrote on my blog. Many people seem to read and like it. For example, [this one](https://medium.com/swlh/making-stupid-react-smart-in-re-rendering-5f04b5bab327).
