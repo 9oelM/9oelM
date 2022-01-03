@@ -7,7 +7,7 @@ Make sure you visit my blogs and profile!
 - [Linkedin](https://www.linkedin.com/in/7oelm/)
 
 # Current interest
-- Fullstack development and open source, for sure! Some projects I've been wokring on recently: 
+- Fullstack development and open source, for sure! Some projects I've been working on: 
   - [UI Theory](https://github.com/9oelM/ui-theory)
   - [Youtube Lite](https://github.com/9oelM/youtube-lite)
   - [elasticpwn](https://github.com/9oelM/elasticpwn)
