@@ -8,9 +8,10 @@ Make sure you visit my blogs and profile!
 
 # Current interest
 - Fullstack development and open source, for sure! Some projects I've been working on: 
-  - [UI Theory](https://github.com/9oelM/ui-theory)
-  - [Youtube Lite](https://github.com/9oelM/youtube-lite)
-  - [elasticpwn](https://github.com/9oelM/elasticpwn)
+  - [UI Theory](https://github.com/9oelM/ui-theory): UI = f(state). React made out of vanilla javascript.
+  - [Youtube Lite](https://github.com/9oelM/youtube-lite): No more wasting time on watching random, irrelevant videos on Youtube.
+  - [elasticpwn](https://github.com/9oelM/elasticpwn): Quickly collect data from thousands of exposed Elasticsearch or Kibana instances and generate a report to be reviewed.
+  - [atm](https://github.com/9oelM/atm): a set of AuToMation scripts for hacking.
 - My current interest also lies in **ethical hacking** (I'm still learning and need to grow a lot). 
   - In my free time, I would go [find security vulnerabilities and report them](https://hackerone.com/9oelm).
   - [Find me here too](https://bugbounty.naver.com/ko/halloffame)
