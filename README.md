@@ -21,6 +21,6 @@ Make sure you visit my blogs and profile!
   - [And there too](https://www.nokia.com/notices/responsible-disclosure/)
   - [And then here too](https://bugcrowd.com/9oelm)
   
-# Speciality
+# Specialty
 - I'm really good at React, Node.js and Typescript. Also cloud infra and automation. You should really go read the articles I wrote on my blog. Many people seem to read and like it. For example, [this one](https://medium.com/swlh/making-stupid-react-smart-in-re-rendering-5f04b5bab327).
 - I'm a firm believer in the future of [wasm](https://webassembly.org/). I'm always interested in wasm and better than an average person at it.
