@@ -14,6 +14,7 @@ Make sure you visit my blogs and profile!
   - [atm](https://github.com/9oelM/atm): a set of AuToMation scripts for hacking.
   - [async-jobs](https://github.com/9oelM/async-jobs): track, manage, access all async jobs like network requests on browser at one place.
   - [frontend-interview](https://github.com/9oelM/frontend-interview): frontend interview cheatsheet.
+  - [png-rs](https://github.com/9oelM/png-rs): Webassembly-first PNG decoder/validator/inspector in Rust
 - Hobby: computer security (I'm still learning and need to grow a lot): 
   - In my free time, I would go [find security vulnerabilities and report them](https://hackerone.com/9oelm).
   - [Find me here too](https://bugbounty.naver.com/ko/halloffame)
