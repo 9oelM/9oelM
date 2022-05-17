@@ -16,6 +16,9 @@ Make sure you visit my blogs and profile!
   - [frontend-interview](https://github.com/9oelM/frontend-interview): frontend interview cheatsheet.
   - [png-rs](https://github.com/9oelM/png-rs): Webassembly-first PNG decoder/validator/inspector in Rust
   - [risc-v-web-simulator](https://github.com/9oelM/risc-v-web-simulator): Yet another RISC-V Simulator on the web, running on Webassembly!
+  - [react-typescript-monorepo-boilerplate](https://github.com/9oelM/react-typescript-monorepo-boilerplate): Too tired of creating all web projects from scratch again and again
+  - [emscripten-cplusplus-webpack-example](https://github.com/9oelM/emscripten-cplusplus-webpack-example): Step-by-step guide on compiling C++ codes with Emscripten into wasm and using it with Webpack + Typescript + React setup
+  - And.. many other little projects.
 - Hobby: computer security (I'm still learning and need to grow a lot): 
   - In my free time, I would go [find security vulnerabilities and report them](https://hackerone.com/9oelm).
   - [Find me here too](https://bugbounty.naver.com/ko/halloffame)
