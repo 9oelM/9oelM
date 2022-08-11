@@ -18,6 +18,8 @@ Make sure you visit my blogs and profile!
   - [risc-v-web-simulator](https://github.com/9oelM/risc-v-web-simulator): Yet another RISC-V Simulator on the web, running on Webassembly!
   - [react-typescript-monorepo-boilerplate](https://github.com/9oelM/react-typescript-monorepo-boilerplate): Too tired of creating all web projects from scratch again and again
   - [emscripten-cplusplus-webpack-example](https://github.com/9oelM/emscripten-cplusplus-webpack-example): Step-by-step guide on compiling C++ codes with Emscripten into wasm and using it with Webpack + Typescript + React setup
+  - [@graphcentral/notion](https://github.com/graphcentral/notion): create a graph from notion pages
+  - [@graphcentral/notion](https://github.com/graphcentral/graph): Performant graph visualization on the web with WebGL + Webworkers + IndexedDB
   - And.. many other little projects.
 - Hobby: computer security (I'm still learning and need to grow a lot): 
   - In my free time, I would go [find security vulnerabilities and report them](https://hackerone.com/9oelm).
