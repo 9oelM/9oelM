@@ -5,7 +5,6 @@ Make sure you visit my blogs and profile!
 - [Github blog](https://9oelm.github.io)
 - [Medium blog](https://9oelm.medium.com)
 - [Linkedin](https://www.linkedin.com/in/7oelm/)
-- [CV](https://9oelm.github.io/joel-hj-mun-resume.pdf)
 
 # About me
 - I love them all (and excel at them): web dev, perf, wasm, automation. Take a look at my projects.
