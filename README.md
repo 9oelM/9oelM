@@ -7,7 +7,7 @@ Make sure you visit my blogs and profile!
 - [Linkedin](https://www.linkedin.com/in/7oelm/)
 
 # About me
-- I love them all (and excel at them): web dev, perf, wasm, automation, web3, security. Take a look at my projects:
+- I love them all (and excel at them): web dev, perf, data, wasm, automation, web3, security. Take a look at my projects:
   - [youtube-lite](https://github.com/9oelM/youtube-lite) / [elasticpwn](https://github.com/9oelM/elasticpwn) / [emscripten-cplusplus-webpack-example](https://github.com/9oelM/emscripten-cplusplus-webpack-example) / [ui-theory](https://github.com/9oelM/ui-theory) / [png-rs](https://github.com/9oelM/png-rs) / [risc-v-web-simulator](https://github.com/9oelM/risc-v-web-simulator) / [async-jobs](https://github.com/9oelM/async-jobs) / [20-days-of-restudying-javascript](https://github.com/9oelm/20-days-of-restudying-javascript) / [graphcentral](https://graphcentral.github.io/graph/)
 - Some security findings:
   - In my free time, I would go [find security vulnerabilities and report them](https://hackerone.com/9oelm).
